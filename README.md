@@ -1,2 +1,2 @@
-# Hinata-CSS
+# Hinata
 By Hinata
